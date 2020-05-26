@@ -149,7 +149,7 @@ npm un vue-quill-editor -S
 第一步：打开 src/main.js 文件，找到引入 element 样式的地方，换成浅绿色主题。
 
 ```javascript
-import 'element-ui/lib/theme-default/index.css'; // 默认主题
+// import 'element-ui/lib/theme-default/index.css'; // 默认主题
 // import './assets/css/theme-green/index.css';       // 浅绿色主题
 ```
 
